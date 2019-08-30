@@ -35,5 +35,5 @@ Now after plugin activation and configuration is done, following new pages in `P
  ### How to uninstall the plugin
   - `Settings->Plugins->Hostaway` press `Deactivate` and `Delete`. 
   - Remember, we will be very sorry not to see you using Hostaway wordpress plugin. Please let us know how to improve: 
-  [support@hostaway.com](mailto:support@hostaway.com?subject=wordpress%20feedback)
+  [support@hostaway.com](mailto:product@hostaway.com?subject=wordpress%20feedback)
  
