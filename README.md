@@ -24,7 +24,7 @@ or (advanced) upload the plugin files to the `/wp-content/plugins/` directory on
   - `Google Maps API key` enables using Google Map on the Search and Listing pages.  Get [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key).
   - `Google recaptcha public key` and `Google recaptcha private key` are needed to enable recaptcha protection from automated spam. Get [reCAPTCHA API key pair](https://developers.google.com/recaptcha/intro).
   - `Debug mode` helps debug by disabling internal page caching. To turn debugging set to `1`. Once you are happy with results, please remember to set it to `0` for snappier page loads.
-  - `Clear cache` momentarily clears internal page caches.
+  - `Clear cache` momentarily clears internal page and Hostaway API response caches. Currently any Hostaway API response is being cached for 5 mins.
   - If you want to adjust CSS for your theme please go to `Settings->Hostaway->Custom CSS` and paste your styles there.
 
 Now after plugin activation and configuration is done, following new pages in `Pages -> All pages` should be operational:
