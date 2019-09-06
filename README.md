@@ -2,7 +2,7 @@
 Manage your vacation rental properties like never before with our all-in-one software.
 
 ## Pre-production releases:
- * [hostaway-wp-plugin-20190905120256-34ce09f.zip](https://github.com/Hostaway/wordpress-plugin/releases/download/v1.0-beta-20190905120256-34ce09f/hostaway-wp-plugin-20190905120256-34ce09f.zip)
+ * Latest [hostaway-wp-plugin.zip](https://github.com/Hostaway/wordpress-plugin/releases/download/v1.0-beta-20190906095525-4aa590b/hostaway-wp-plugin-20190906095525-4aa590b.zip)
  
 ## Installation
 
