@@ -14,7 +14,7 @@ In case your WordPress is hosted by Wordpress.com, the ability to install plugin
 [Business or eCommerce plan](https://en.support.wordpress.com/plan-features/). 
 
 ### How to install and configure the plugin
-1. Download the latest hostaway-wp-plugin.zip from [Releases](#pre-production-releases) 
+1. Download the latest hostaway-wp-plugin.zip from [Releases](https://github.com/Hostaway/wordpress-plugin/releases/latest) 
  and install it: the easiest is to install the plugin through 
 [Plugins->Add New->Upload Plugins](https://en.support.wordpress.com/plugins/adding-plugins/#install-plugins-via-a-zip-file), 
 or (advanced) upload the plugin files to the `/wp-content/plugins/` directory on the web-server. 
